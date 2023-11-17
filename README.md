@@ -12,6 +12,4 @@ and of course, a webhost that allows SFTP or FTP.
 
 You can just run the script in CRON for your choice of time for processing.
 
-Example: https://www.hawkbuckman.com/phone-cam/
-
 Happy coding!
